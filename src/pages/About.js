@@ -11,7 +11,7 @@ const AboutMe = () => {
       <Helmet>
         <title>About Me - Mohd Noman Qadri</title>
         <meta name="description" content="Learn more about Mohd Noman Qadri, a passionate web developer from India. Skilled in MERN stack, data annotation, and web development projects." />
-        <meta name="keywords" content="Mohd Noman Qadri, Web Developer, MERN Stack, Portfolio, Integral University, PW Skills, Infozion Technologies, Data Annotation" />
+        <meta name="keywords" content="Mohd Noman Qadri, Web Developer, MERN Stack, Portfolio, Integral University, PW Skills, CodeSpaze Technologies, Data Annotation" />
         <meta name="author" content="Mohd Noman Qadri" />
         <meta property="og:title" content="About Me - Mohd Noman Qadri" />
         <meta property="og:description" content="Explore the journey of Mohd Noman Qadri, a web developer passionate about building applications with MERN stack and more." />
@@ -33,7 +33,7 @@ const AboutMe = () => {
           <p>
             My name is Mohd Noman Qadri, and I am from Gorakhpur, India. I completed my B.Sc. in Computer Science from Integral University, Lucknow. 
             I have 3 months of experience in data annotation at HAN Digital Solutions Private Limited and 2 months of experience in web development at 
-            Infozion Technologies. My first project was a Health & Fitness Landing Page using HTML & CSS, followed by a Learning Management System (LMS) 
+            CodeSpaze Technologies. My first project was a Health & Fitness Landing Page using HTML & CSS, followed by a Learning Management System (LMS) 
             built with the MERN stack during my learning journey at PW Skills. My third project was a full-fledged E-commerce website using MERN stack, 
             which included user authentication, an admin panel, and Razorpay payment integration. I am passionate about web development and always eager 
             to learn and build innovative applications.
