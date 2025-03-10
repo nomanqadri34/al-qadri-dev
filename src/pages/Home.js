@@ -99,9 +99,11 @@ const Home = () => {
     <div className="home-container">
       {/* SEO Metadata */}
       <Helmet>
-        <title>Portfolio | Web & App Development Projects</title>
-        <meta name="description" content="Explore my portfolio of web and mobile app development projects." />
-        <meta name="keywords" content="portfolio, web development, app development, React, Node.js, projects" />
+    <title>Al Qadri Dev - Expert Web Development Services</title>
+
+        <title> Freelancing Portfolio | Web & App Development Projects</title>
+        <meta name="description" content="Explore my Al Qadri Dev portfolio of web and mobile app development projects." />
+        <meta name="keywords" content="Al Qadri Dev portfolio, web development, app development, MERN React, Node.js, projects" />
       </Helmet>
 
       {/* Welcome Section */}
