@@ -9,7 +9,7 @@ const projects = [
     title: "Blog-Website",
     category: "web",
     tech: "React.js, Node.js, MongoDB ,Firebase",
-    github: "https://github.com/nomanqadri34/Lms",
+    github: "https://github.com/nomanqadri34/alqadriblog",
     video: "/blog1.mp4",
   },
   {
@@ -43,7 +43,7 @@ const projects = [
     title: " Personal Portfolio",
     category: "word",
     tech: "HTML,CSS,Javascript ",
-    github: "https://github.com/nomanqadri34/Gym-landing-page",
+    github: "https://github.com/nomanqadri34/al-qadri-portfolio",
     video: "/p1.mp4",
   },
 ];
